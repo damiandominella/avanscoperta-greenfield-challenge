@@ -29,3 +29,11 @@ One tip: if Claude starts batching steps or skipping the red phase, just reply "
 
 outputs: <prompt-for-plan.md>
 ```
+
+4rd prompt (create txts)
+
+```
+> me:  Can you build me the travel-rome.txt and the java-programming.txt ? 20 paragraphs each one, just for test purposes.
+
+> claude: outputs: <travel-rome.txt> and <java-programming.txt>
+```
