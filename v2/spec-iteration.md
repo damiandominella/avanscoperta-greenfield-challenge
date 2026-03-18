@@ -11,7 +11,7 @@ Model: Claude 4.6 Opus
 
 ```
 > me: Add something that says to test with vitest
-``
+```
 
 3rd prompt (after spec was ok):
 
