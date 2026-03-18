@@ -17,6 +17,7 @@ You are building the project described in the attached spec.md using strict TDD 
    - What the next step will be.
 4. **Do not skip ahead, batch multiple steps, or implement anything without a test covering it first.**
 5. **Do not write placeholder or skeleton code.** Every line of production code must exist because a test demanded it.
+6. **After each step, update a diary.md file with the progress.**
 
 ## Step Order
 
